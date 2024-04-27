@@ -1,2 +1,3 @@
-[momento]
-	main = main
+[submodule "momento"]
+	path = momento
+	url = git@github.com:hooman96/momento.git
