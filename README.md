@@ -51,4 +51,4 @@ Momento AI integrates Custom GPT to elevate customer support and developer assis
 
 **Conclusion**
 
-Momento AI empowers businesses to take control of their cloud environments, reduce costs, and drive innovation. Start your cloud optimization journey with Momento AI today! 
+Momento AI empowers businesses to take control of their cloud environments, reduce costs, and drive innovation. Start your cloud optimization journey with Momento AI today! Email us at hooman@momentoai.onmicrosoft.com
