@@ -13,17 +13,17 @@
 from momento import CacheClient, Configurations, CredentialProvider
 import requests
 
-# Initialize the Momento Cache Client
+// Initialize the Momento Cache Client
 momento_client = CacheClient(
     configuration=Configurations.Laptop.v1(),
     credential_provider=CredentialProvider.from_env_variable("MOMENTO_AUTH_TOKEN"),
     default_ttl_seconds=600  # Time-to-live for cache entries in seconds
 )
 
-# Initialize the cache
+// Initialize the cache
 momento_client.create_cache(cache_name="my-momento-cache")
 
-# Simple call the get function in Redis
+// Simple call the get function in Redis
 cache_result = momento_client.get(cache_name, api_url)
 ```
 
