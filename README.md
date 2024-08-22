@@ -1,6 +1,13 @@
-# Momento AI
+# Momento AI: Next-Generation Cloud Mapping
 
-**Momento AI: Next-Generation Cloud Mapping**
+**Momento AI GPT**
+
+[Try our custom GPT](https://chatgpt.com/g/g-2m6AzGbPX-cloud-optimization-advisor-momentoai-gpt)
+* You can insert your codebase from Github URL and get an analysis of your cloud services, security score, etc
+* Feel free to upload your cloud providers bill for additional insights
+* Stay tuned for our own custom RAG model as we scale our business
+
+**Momento AI Memo**
 
 **Introduction**
 
@@ -51,4 +58,4 @@ Momento AI integrates Custom GPT to elevate customer support and developer assis
 
 **Conclusion**
 
-Momento AI empowers businesses to take control of their cloud environments, reduce costs, and drive innovation. Start your cloud optimization journey with Momento AI today! Email us at hooman@momentoai.onmicrosoft.com
+Momento AI empowers businesses to take control of their cloud environments, reduce costs, and drive innovation. Start your cloud optimization journey with Momento AI today! Email us at [hooman@momentoai.onmicrosoft.com](hooman@momentoai.onmicrosoft.com)
