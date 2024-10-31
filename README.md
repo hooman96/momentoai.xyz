@@ -29,4 +29,4 @@ cache_result = momento_client.get(cache_name, api_url)
 
 **Conclusion**
 
-Momento AI empowers businesses to take control of their cloud environments, reduce costs, and drive innovation. Start your cloud optimization journey with Momento AI today! Email us at [hooman@momentoai.onmicrosoft.com](hooman@momentoai.onmicrosoft.com)
+Momento AI empowers businesses to take control of their cloud environments, reduce costs, and drive innovation. Start your cloud optimization journey with Momento AI today! Email us at [hooman@momentoai.onmicrosoft.com](mailto:hooman@momentoai.onmicrosoft.com)
