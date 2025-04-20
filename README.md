@@ -2,6 +2,9 @@
 
 **Momento AI GPT**
 
+[Try our GPT](https://gpt-frontend-momento.vercel.app)
+* We respect your privacy and anonymize all of your chat history on our end
+
 [Try our custom GPT](https://chatgpt.com/g/g-2m6AzGbPX-cloud-optimization-advisor-momentoai-gpt)
 * You can insert your codebase from Github URL and get an analysis of your cloud services, security score, etc
 * Feel free to upload your cloud providers bill for additional insights
